@@ -1,8 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /bitrix/ 
-Disallow: /upload/ 
-Disallow: *?*
-
-Host: studio-dk.ru
-Sitemap: http://studio-dk.ru/sitemap.xml
